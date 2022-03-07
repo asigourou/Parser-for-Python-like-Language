@@ -23,7 +23,7 @@ $ gcc myParser.exe -c <br/>
 $ gcc myParser.exe y.tab.c lex.yy.c -o flex -lm <br/>
 $ ./flex input.py <br/>
 
-Team Members 👪
+Team Members 👪 <br />
 <a href="https://github.com/aflorentia"> Florentia Afentaki </a> <br />
 <a href="https://github.com/asigourou"> Alkistis Sigourou </a> <br />
 <a href="https://github.com/stavros-alexiou"> Stavros Alexiou </a> <br />
